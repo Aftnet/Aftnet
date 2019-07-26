@@ -1,5 +1,5 @@
 +++
-Date = "2017-01-30"
+Date = "2019-07-26"
 TagLine = "Windows 10 app"
 Title = "Screen Recordr"
 SubTitle = "Screen capture app"
